@@ -1,1 +1,1 @@
-My Splunk lab notes
+splunk detects and analyzes machine data
